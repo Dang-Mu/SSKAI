@@ -1,3 +1,13 @@
+# SSKAI
+- Project Name : SSKAI
+- Project Period : December 2023 - JUN 2024
+- Actions :
+    - This project provided a platform that enables users to easily develop and deploy machine learning models using Amazon Web Services.
+    - I implemented a stable distributed training environment in spot instances, developed training automation code, and fine-tuned Stable Diffusion and Llama models to deploy Foundation models.
+    - I gained an understanding of model training and built experience in configuring infrastructure for training and inference.
+- Tags : Python, Ray, Kubernetes, Terraform
+
+
 ## Team SSKAI
 ### 최적의 GenAIOps 환경을 제공하는 플랫폼
 
